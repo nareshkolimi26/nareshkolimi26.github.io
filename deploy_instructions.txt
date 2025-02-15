@@ -1,0 +1,23 @@
+To deploy your portfolio to GitHub Pages:
+
+1. Open a terminal in your project folder (c:\installergdc) and run these commands:
+
+git init
+git add .
+git commit -m "Initial portfolio commit"
+git branch -M main
+git remote add origin https://github.com/yourusername/yourusername.github.io.git
+git push -u origin main
+
+(Replace "yourusername" with your actual GitHub username)
+
+2. After pushing your code:
+   - Go to your repository on GitHub
+   - Click on "Settings"
+   - Scroll down to "GitHub Pages" section
+   - Under "Source", select "main" branch
+   - Click "Save"
+
+3. Your website will be available at: https://yourusername.github.io
+
+Note: It may take a few minutes for your site to be published after the initial push.
