@@ -20,16 +20,16 @@ const projects = [
         demoUrl: "https://demo.example.com",
         githubUrl: "https://github.com/example/taskmanager"
     },
-    {
-        id: 3,
-        title: "Portfolio Dashboard",
-        description: "An interactive dashboard for tracking investment portfolios with real-time market data.",
-        image: "path/to/dashboard.jpg",
-        technologies: ["React", "D3.js", "Firebase"],
-        category: "frontend",
-        demoUrl: "https://demo.example.com",
-        githubUrl: "https://github.com/example/dashboard"
-    },
+    // {
+    //     id: 3,
+    //     title: "Portfolio Dashboard",
+    //     description: "An interactive dashboard for tracking investment portfolios with real-time market data.",
+    //     image: "path/to/dashboard.jpg",
+    //     technologies: ["React", "D3.js", "Firebase"],
+    //     category: "frontend",
+    //     demoUrl: "https://demo.example.com",
+    //     githubUrl: "https://github.com/example/dashboard"
+    // },
     {
         id: 4,
         title: "RESTful API Service",
